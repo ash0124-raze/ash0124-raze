@@ -1,5 +1,8 @@
-# Hi there, I'm Ashmit 👋
+# Yooo!!, It'z Ashmit 👋
 
+<div align="center">
+  <img src="\rikka-takanashi-chūnibyō.gif" alt="Rika-chan" width="400" />
+</div>
 A Computer Science undergrad specializing in full-stack web development, computer vision, and AI. Currently diving deep into DevOps and gearing up for GATE CS 2027.
 
 ### 👨‍💻 About Me
